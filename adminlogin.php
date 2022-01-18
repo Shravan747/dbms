@@ -9,7 +9,7 @@
         
 </head>
 <body>
-
+hi
 
 
 <form action="admincheck.php" method="post">
